@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 this change has been done on remote !
 This is the local edid
 \\This is the local edit
+=======
+
+This is the local edit1
+This is the local edit2 !
+=======
+This is the local edit
+>>>>>>> newfeature
 this is a remote edit !
+again made changes locally !
