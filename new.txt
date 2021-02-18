@@ -11,3 +11,7 @@ This is the local edit
 >>>>>>> newfeature
 this is a remote edit !
 again made changes locally !
+<<<<<<< HEAD
+=======
+THis update is for  cherry pick !
+>>>>>>> bb6c60e... updated the cherry pick satement
